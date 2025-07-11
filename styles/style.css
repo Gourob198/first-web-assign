@@ -222,7 +222,7 @@ body {
 }
 
 .stars {
-  color: #fbbf24; /* yellow star */
+  color: #fbbf24; 
   font-size: 16px;
   margin-bottom: 10px;
 }
@@ -353,7 +353,7 @@ body {
 .contact-btn:hover {
   background-color: #3c39cc;
 }
-/* Footer Section from Image */
+/* footer section */
 .footer-image-section {
   background-color: #ffffff;
   text-align: center;
@@ -392,9 +392,9 @@ body {
 .footer-links a:hover {
   color: #4e47ff;
 }
-.boshir{
+/* .boshir{
   /* font-size: 97px; */
-}
+} */
 
 
 
