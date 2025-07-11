@@ -57,6 +57,7 @@ header {
 }
 
 .signup-btn {
+  border: none;
   background-color: #5e5ce6;
   color: white;
   padding: 10px 20px;
