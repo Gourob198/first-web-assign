@@ -222,3 +222,46 @@ body {
   height: 36px;
   border-radius: 50%;
 }
+.focus-section {
+  padding: 60px 20px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  max-width: 1000px;
+  margin: 40px auto;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  text-align: center;
+}
+
+.focus-container h2 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.focus-container p {
+  font-size: 16px;
+  color: #6b7280;
+  margin-bottom: 24px;
+}
+
+.focus-btn {
+  background-color: #4e47ff;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-bottom: 30px;
+  display: inline-block;
+}
+
+.focus-btn:hover {
+  background-color: #3c39cc;
+}
+
+.focus-image img {
+  width: 100%;
+  max-width: 900px;
+  border-radius: 20px;
+  margin-top: 30px;
+}
